@@ -1,0 +1,2 @@
+superannotate_schemas>=v1.0.45dev5
+

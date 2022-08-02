@@ -1,0 +1,482 @@
+{
+  "metadata": {
+    "name": "example_image_1.jpg",
+    "lastAction": {
+      "email": "shab.prog@gmail.com",
+      "timestamp": 1637306216
+    }
+  },
+  "instances": [
+    {
+      "creationType": "Preannotation",
+      "classId": 887060,
+      "className": "Large vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [
+        {
+          "id": 1223660,
+          "groupId": 358141,
+          "name": "no",
+          "groupName": "small"
+        }
+      ],
+      "parts": [
+        {
+          "color": "#000447"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [
+        {
+          "id": 1223658,
+          "groupId": 358140,
+          "name": "yes",
+          "groupName": "Large"
+        }
+      ],
+      "parts": [
+        {
+          "color": "#000294"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0002A3"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0002B2"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0002C1"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0002D0"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0002DF"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0002EE"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#00030C"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#00031B"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#00032A"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#000339"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#000357"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#000366"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#000375"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#000384"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#000393"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0003A2"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887059,
+      "className": "Personal vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0003B1"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887061,
+      "className": "Pedestrian",
+      "visible": true,
+      "probability": 99,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#00000F"
+        },
+        {
+          "color": "#0001D1"
+        },
+        {
+          "color": "#0001E0"
+        },
+        {
+          "color": "#0001EF"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887061,
+      "className": "Pedestrian",
+      "visible": true,
+      "probability": 99,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#00001E"
+        },
+        {
+          "color": "#00022B"
+        },
+        {
+          "color": "#00023A"
+        },
+        {
+          "color": "#000249"
+        },
+        {
+          "color": "#000258"
+        },
+        {
+          "color": "#000267"
+        },
+        {
+          "color": "#000276"
+        },
+        {
+          "color": "#000285"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887061,
+      "className": "Pedestrian",
+      "visible": true,
+      "probability": 98,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#00004B"
+        },
+        {
+          "color": "#0001FE"
+        },
+        {
+          "color": "#00020D"
+        },
+        {
+          "color": "#00021C"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887062,
+      "className": "Two wheeled vehicle",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0002FD"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887063,
+      "className": "Traffic sign",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0003C0"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887063,
+      "className": "Traffic sign",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0003CF"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887063,
+      "className": "Traffic sign",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0003DE"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887063,
+      "className": "Traffic sign",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0003ED"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887063,
+      "className": "Traffic sign",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#0003FC"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887063,
+      "className": "Traffic sign",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#00040B"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887063,
+      "className": "Traffic sign",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#00041A"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887063,
+      "className": "Traffic sign",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#000429"
+        }
+      ]
+    },
+    {
+      "creationType": "Preannotation",
+      "classId": 887063,
+      "className": "Traffic sign",
+      "visible": true,
+      "probability": 100,
+      "attributes": [],
+      "parts": [
+        {
+          "color": "#000438"
+        }
+      ]
+    }
+  ],
+  "tags": [],
+  "comments": []
+}
